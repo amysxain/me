@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+
+.mycontainer {background:#EEE; min-height:500px; width:800px;}
+
+
+
+
+
+@media (min-width:1200px) {
+	
+	.container { width:1200px;}
+	
+	
+	.mydiv { width:500px;}
+	
+	}
+
+@media (max-width:1199px) {
+		.mydiv { width:600px;}
+	
+	}
+
+
+
+@media (max-width:991px) {
+		.mydiv { width:400px;}
+	
+	}
+	
+	
+	
+@media (max-width:767px) {
+	
+		.mydiv { width:50%;}
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+@media (max-width:600px) {
+	
+	
+	}
+	
+	
+	
+@media (max-width:480px) {
+	
+	
+	}
